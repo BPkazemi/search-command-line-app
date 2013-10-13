@@ -1,4 +1,10 @@
 search-command-line-app
 =======================
 
-Searches Google from terminal: "search.sh weather"
+Search Google from the terminal:
+
+	search "Shortest hello world program"
+	search "define indelible"
+	search weather
+
+Place the script in "/usr/local/bin/" and rename "search.sh" to "search". Enjoy!
